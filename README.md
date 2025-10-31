@@ -71,7 +71,7 @@ KPI and trend dashboards (optional in Power BI, Tableau, or Excel)
 
 
 📂 Repository Structure
-readme-data-warehouse_project/
+readme-data-warehouse/
 │
 ├── datasets/                           # Raw CSV datasets (ERP & CRM)
 │
@@ -79,8 +79,8 @@ readme-data-warehouse_project/
 │   ├── etl_flow.drawio                 # ETL process diagram
 │   ├── data_architecture.drawio        # Data warehouse architecture
 │   ├── data_catalog.md                 # Dataset field descriptions and metadata
-│   ├── data_flow.edrawMax                # Data flow overview
-│   ├── data_models.drawio              # ERD / Star Schema diagram
+│   ├── data_flow.edrawMax              # Data flow overview
+│   ├── data_models.edrawMax            # ERD / Star Schema diagram
 │   ├── naming-conventions.md           # Naming guidelines for tables & columns
 │
 ├── scripts/                            # MySQL ETL & transformation scripts
