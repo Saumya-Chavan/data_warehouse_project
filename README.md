@@ -37,14 +37,14 @@ Serves as the foundation for dashboards and advanced analytics.
     - SQL Optimization & Query Design
 
 ## Tools & Resources Used
-|Tool	                 |Purpose|
-|----------------------|
-|MySQL	               |Database for storing and querying data |
+|Tool	                 |Purpose                                               |
+|----------------------|------------------------------------------------------|
+|MySQL	               |Database for storing and querying data                |
 |MySQL Workbench 	     |GUI for designing, managing, and querying the database|
-|CSV Datasets	         |Source data files from ERP and CRM systems|
+|CSV Datasets	         |Source data files from ERP and CRM systems.           |
 |EdrawMax              |To design data flow, architecture, and schema diagrams|
-|GitHub	               |Version control and project collaboration|
-|Notion                |Documentation and task management|
+|GitHub	               |Version control and project collaboration             |
+|Notion                |Documentation and task management                     |
 
 ## Project Requirements
 **1.Data Engineering (Building the Data Warehouse)**
